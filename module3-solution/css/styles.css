@@ -1,0 +1,166 @@
+body {
+	color: #fff;
+	background-color: #fff4c4;
+}
+#header-nav {
+	background-color: #FC5F06;
+	border-radius: 0;
+	border:0;
+	padding: 0;
+	border-bottom: 1px solid black;
+}
+#header-nav ul {
+	background-color: green;
+	margin: 0;
+	padding: 0;
+}
+
+.navbar-brand  h1{
+	color: white;
+	font-size:1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+.nav-list {
+	color: white;
+}
+.link {
+	color: white;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+hr {
+	border-color: white;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+.main-head {
+	color: black;
+}
+p {
+	padding: 10px;
+	margin: 0;
+}
+section {
+	border:	1px solid black;
+	background-color: #00FF99;
+	width: 100%;
+	height: auto;
+	font-family: Helvetica;
+	color: black;
+	position: relative;
+	overflow: auto;
+	margin: 0 auto ;
+}
+
+#chicken {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color: #FFFF00;
+}
+
+#beef {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color: #FF1439;
+}
+
+#sushi {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	background-color: #6495ED;
+	color: white;
+	padding: 5px;
+}
+
+#chicken-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#beef-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#sushi-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.container {
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+
+
+/*.navbar-brand {
+  font-size: 2em;
+  border: 0 0 10px 10px;
+  color: #FFFFFF;
+}*/
+
+/*#header-nav {
+  border: 0;
+  background-color: #FC5F06;
+  color: #FFFFFF;
+}*/
+
+/*.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.nav-header {
+  background-color: #FFFFFF;
+}
+
+.nav-brand {
+  color: #FFFFFF;
+  font-size: 1.5em;
+}
+
+#nav-list {
+  color: white;
+}
+
+hr {
+  border-color: white;
+}
+
+.item {
+  color: white;
+  font-size: 1.2em;
+}*/

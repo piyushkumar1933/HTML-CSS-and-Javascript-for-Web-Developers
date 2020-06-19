@@ -19,6 +19,7 @@ section{
   overflow-y: auto;
   overflow-x: auto;
 }
+
 section>h2 {
   float: right;
   border-bottom: 1px solid black;
